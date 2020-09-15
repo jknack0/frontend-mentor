@@ -61,7 +61,7 @@
   right: 3rem;
 }
 
-#last-icon {
+.last-icon {
   margin-right: 20px;
 }
 
@@ -158,7 +158,7 @@
     right: unset;
   }
   
-  #last-icon {
+  .last-icon {
     margin-right: 5px;
   }
 
